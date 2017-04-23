@@ -1,0 +1,44 @@
+header {
+	position:fixed;
+	width: 100%;
+	
+}
+#headlist{
+	float: right;
+	
+	margin-right: 20px;
+	
+}
+li {
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+}
+img {
+	height: 200px; width: 250px;
+	display: block;
+	margin: auto;
+	padding-top: 200px;
+
+
+}
+form {
+	
+	text-align: center;
+
+
+}
+#searchbar {
+	width: 300px;
+}
+
+footer {
+	width: 100%
+}
+ul {
+	display: inline-block;
+}
+#rfoot {
+	float:right;
+}
